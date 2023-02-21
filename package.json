@@ -47,7 +47,7 @@
     "prom-client": "14.0.1",
     "react": "^17",
     "react-dom": "^17",
-    "react-hook-form": "7.27.1",
+    "react-hook-form": "7.43.0",
     "react-use": "17.3.2",
     "reef-knot": "^0.5.2",
     "styled-components": "5.3.3",
